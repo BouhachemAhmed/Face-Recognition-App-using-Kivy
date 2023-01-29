@@ -1,0 +1,1 @@
+build a Face-Recognition App using Kivy and many function you can find it FaceRecgnition file in https://github.com/BouhachemAhmed/Face-Recognition/blob/main/Facial%20Recognition%20Using%20Tensorflow.ipynb
